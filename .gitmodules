@@ -1,3 +1,6 @@
 [submodule "businessrules"]
 	path = businessrules
 	url = https://github.com/rajeev150590/businessrules.git
+[submodule "rio"]
+	path = rio
+	url = https://github.com/rajeev150590/rio.git
